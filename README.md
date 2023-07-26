@@ -2,6 +2,11 @@
 
 Learning to run Llama2 on Google Colab.
 
+## Tools
+
+-   [Transformer Reinforcement Learning](https://github.com/lvwerra/trl)
+-   [SFT Trainer](https://github.com/lvwerra/trl/blob/main/examples/scripts/sft_trainer.py)
+
 ## Readings
 
 -   [huggingface/Llama2](https://huggingface.co/blog/llama2)
