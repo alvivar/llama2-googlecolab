@@ -17,3 +17,4 @@ Learning to run Llama2 on Google Colab.
 ## Cool
 
 -   [Creating 3000 new POKEmon with AI (the wrong way) featuring GPT-2](https://youtu.be/Z9K3cwSL6uM)
+-   [Scaling LLaMA and GPTNeoX to >8k input context ](https://twitter.com/joao_gante/status/1679775399172251648)
