@@ -18,7 +18,7 @@ Learning to run Llama2 on Google Colab.
 
 -   [Creating 3000 new POKEmon with AI (the wrong way) featuring GPT-2](https://youtu.be/Z9K3cwSL6uM)
 -   [Scaling LLaMA and GPTNeoX to >8k input context ](https://twitter.com/joao_gante/status/1679775399172251648)
--   [https://arxiv.org/pdf/2305.07185.pdf](MEGABYTE: Predicting Million-byte Sequences with Multiscale Transformers)
+-   [MEGABYTE: Predicting Million-byte Sequences with Multiscale Transformers](https://arxiv.org/pdf/2305.07185.pdf)
 
 ## Llama 2 access
 
@@ -27,7 +27,7 @@ Learning to run Llama2 on Google Colab.
 1. **Go to the Llama 2-7b model page on HuggingFace.**
 1. **Ask for access to the model.** (This may take time if your are in a hurry.)
 
-URLs:
+### URLs
 
 -   HuggingFace: https://huggingface.co/join
 -   Model page: https://huggingface.co/meta-llama/Llama-2-7b-hf
